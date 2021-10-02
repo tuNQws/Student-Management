@@ -2,12 +2,13 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: Nguyễn Quốc Tuấn - 19522476
+- Member: Tăng Quốc Minh - 19521854
+- Member: Trịnh Anh Tú - 19522459
+- Member: Nguyễn Cường Việt - 19522516
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: https://trello.com/projectcnpm
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
