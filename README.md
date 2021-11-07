@@ -10,15 +10,13 @@ Participants:
 
 Task management table: https://trello.com/projectcnpm
 
-UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
+UI / UX prototype:
 
 Tech stacks:
 
-- Front-end: [...]
-- Back-end: [...]
-- Database: [...]
+- Front-end: Trịnh Anh Tú, Nguyễn Cường Việt
+- Back-end: Tăng Quốc Minh
+- Database: Nguyễn Quốc Tuấn
 - ...
 
 Demo online: [link to website - update later]
-
-*[Delete below text when you forked]*
