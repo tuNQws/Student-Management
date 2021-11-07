@@ -10,7 +10,7 @@ Participants:
 
 Task management table: https://trello.com/projectcnpm
 
-UI / UX prototype:
+UI / UX prototype: https://www.figma.com/file/hXIRvQbzlmlNyXb8YBW2Pk/Student-Management?node-id=0%3A1
 
 Tech stacks:
 
