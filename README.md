@@ -8,7 +8,7 @@ Participants:
 - Member: Nguyễn Cường Việt - 19522516
 
 
-Task management table: https://trello.com/projectcnpm
+Task management table: https://trello.com/b/lV1ivVN0/project-plan
 
 UI / UX prototype: https://www.figma.com/file/hXIRvQbzlmlNyXb8YBW2Pk/Student-Management?node-id=0%3A1
 
