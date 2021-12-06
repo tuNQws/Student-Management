@@ -1,0 +1,107 @@
+<!DOCTYLE html>
+<html lang="en" class="ipstd-page">
+<head>
+	<meta charset="UTF-8">
+	<title>Web</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+</head>
+<body>
+	<div class="container">
+		<header>
+			<a href="#"><img src="" alt=""></a>
+		</header>
+
+		<nav class="nav">
+			<li class="nav-item">
+				<a class="nav-link" href="index.html">Trang chủ</a>
+			</li>
+			<li class="nav-item dropdown">
+		        <a class="nav-link" href="#" id="navbarDropdown">
+		          Chức năng
+		        </a>
+		        <div class="dropdown-content">
+		          <a class="dropdown-item" href="import-student.html">Tiếp nhận học sinh</a>
+		          <div class="dropdown-divider"></div>
+		          <a class="dropdown-item" href="class-list.html">Lập danh sách lớp</a>
+		          <div class="dropdown-divider"></div>
+		          <a class="dropdown-item" href="search-student.html">Tra cứu học sinh</a>
+		          <div class="dropdown-divider"></div>
+		          <a class="dropdown-item" href="import-score.html">Bảng điểm môn</a>
+		          <div class="dropdown-divider"></div>
+		          <a class="dropdown-item" href="summary.html">Báo cáo tổng kết</a>
+		          <div class="dropdown-divider"></div>
+		          <a class="dropdown-item" href="#">Thay đổi qui định</a>
+		          <div class="dropdown-divider"></div>
+		        </div>
+      		</li>
+      		<li class="nav-item">
+				<a class="nav-link" href="login.html">Đăng nhập</a>
+			</li>
+		</nav>
+
+		<form action="" method="post">
+			<div class="form-group">
+			    <label >Họ và tên</label>
+			    <input type="name" class="form-control" id="name-input" placeholder="Ví dụ: Nguyễn Văn A">
+		  	</div>
+		  	<div class="form-group">
+			    <label >Ngày sinh</label>
+			    <input type="date" class="form-control" id="dob-input">
+		  	</div>
+		  	<div class="form-group">
+			    <label>Email</label>
+			    <input type="email" class="form-control" id="email-input" placeholder="name@example.com">
+		  	</div>
+		  	<div class="form-group">
+			    <label>Chọn khối</label>
+			    <select class="form-control" id="grade-select">
+			      <option>1</option>
+			      <option>2</option>
+			      <option>3</option>
+			      <option>4</option>
+			      <option>5</option>
+			    </select>
+		  	</div>
+		  	<div class="form-group">
+			    <label>Chọn lớp</label>
+			    <select class="form-control" id="class-select">
+			      <option>A</option>
+			      <option>B</option>
+			      <option>C</option>
+			      <option>D</option>
+			    </select>
+		  	</div>
+		  	<div class="form-check">
+			  <input class="form-check-input" type="radio" name="exampleRadios" id="male-rdb" value="option1" checked>
+			  <label class="form-check-label" for="exampleRadios1">
+			    Nam
+			  </label>
+			</div>
+			<div class="form-check">
+			  <input class="form-check-input" type="radio" name="exampleRadios" id="female-rdb" value="option2">
+			  <label class="form-check-label" for="exampleRadios2">
+			    Nữ
+			  </label>
+			</div>
+			<div class="form-group">
+			    <label>Địa chỉ</label>
+			    <textarea class="form-control" id="address-input" rows="3"></textarea>
+			</div>
+			<div class="btn-form">
+				<button type="button" class="btn btn-primary">Xác nhận</button>
+			</div>
+		</form>
+
+
+		<footer>
+			PHÒNG QUẢN LÍ HỌC SINH<br>
+			Số X, Đường X, Khu phố X, P.Linh X, Q.Thủ Đức, TP.Hồ Chí Minh.<br>
+			Điện thoại: (084) 909668882<br>
+			Email: quanlisinhvien@gmail.com<br>
+		</footer>
+	</div>
+	<script src="jquery-3.3.1.min.js"></script>
+	<script src="bootstrap/js/bootstrap.js"></script>
+</body>
+</html>
